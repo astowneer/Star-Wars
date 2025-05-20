@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.bg-starwars {
+  background-image: url("https://static-mh.content.disney.io/starwars/assets/navigation/navigation_stars@2x-815223a7aade.jpg");
+}
